@@ -1,0 +1,14 @@
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\bin\Debug\net7.0\ninja-hambriento.exe
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\bin\Debug\net7.0\ninja-hambriento.deps.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\bin\Debug\net7.0\ninja-hambriento.runtimeconfig.json
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\bin\Debug\net7.0\ninja-hambriento.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\bin\Debug\net7.0\ninja-hambriento.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.AssemblyInfoInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.AssemblyInfo.cs
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.csproj.CoreCompileInputs.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\refint\ninja-hambriento.dll
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.pdb
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ninja-hambriento.genruntimeconfig.cache
+C:\Users\hagen\Desktop\coding-dojo\proyectos-consola-c#\ninja-hambriento\obj\Debug\net7.0\ref\ninja-hambriento.dll
